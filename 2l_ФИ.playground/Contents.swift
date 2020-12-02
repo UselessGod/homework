@@ -58,7 +58,7 @@ for i in 1 ... 20{
 }
 print (array)
 
-print ("6")
+print ("6 задание")
 
 var k = 2
 var num: [Int] = []
